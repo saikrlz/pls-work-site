@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(170, 229, 164);
+font-family: "Comic Sans MS";
+border: 100px;
+}
+img{
+height: 540px;
+width: 960px;
+}
+text{
+    text-wrap-style: pretty;
+    text-align: center;
+}
